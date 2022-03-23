@@ -1,0 +1,7 @@
+puts "They said, \"Yes!\""
+puts "up\\down"
+puts "backslash at the end of a string: \\"
+puts "Dip!"
+puts "\D\i\p\!"
+puts "DUck...\nDuck..."
+puts "\tGoose! (Or gray duck to some of you)"
